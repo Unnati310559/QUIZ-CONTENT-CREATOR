@@ -1,0 +1,5 @@
+{
+  "name": "Quiz Contest Creator",
+  "description": "Upload a document and this application uses the Gemini API to generate an interactive quiz contest for users to take.",
+  "requestFramePermissions": []
+}
